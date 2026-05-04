@@ -1,46 +1,46 @@
 {
   "patients": [
     {
-      "id": "1",
-      "nom": "Raby",
-      "prenom": "Ngaido",
-      "mail": "john.doe@example.com",
+      "id": "7f2d",
+      "prenom": "Awa",
+      "nom": "Diouf",
+      "mail": "awadiouf@gmail.com",
+      "age": 12
+    },
+    {
+      "id": "f5d5",
+      "prenom": "Penda",
+      "nom": "Sow",
+      "mail": "admin@gmail.com",
       "age": 20
     },
     {
-      "id": "2",
-      "nom": "Haby",
-      "prenom": "Niang",
-      "mail": "jane.smith@example.com",
-      "age": 34
+      "id": "dcb9",
+      "prenom": "Fatou",
+      "nom": "Ndiaye",
+      "mail": "fatoudiouf@gmail.com",
+      "age": 11
     },
     {
-      "id": "3",
-      "nom": "Foutou",
-      "prenom": "Kebe",
-      "mail": "bob.johnson@example.com",
-      "age": 4
-    },
-    {
-      "id": "4",
-      "nom": "Amy",
-      "prenom": "Ndaiye",
-      "mail": "bob.johnson@example.com",
-      "age": 4
-    },
-    {
-      "prenom": "Dia",
-      "nom": "Dieynaba",
+      "id": "210e",
+      "prenom": "Penda",
+      "nom": "Diouf",
       "mail": "admin@gmail.com",
-      "age": 22,
-      "id": "VVa9L0InUH0"
+      "age": 15
     },
     {
-      "prenom": "Kourssoum",
-      "nom": "sy",
-      "mail": "kour@ssoum",
-      "age": 24,
-      "id": "Y_7T8A1YsPg"
+      "id": "26eb",
+      "prenom": "Sow",
+      "nom": "Betty",
+      "mail": "sowbetty640@gmail.com",
+      "age": 20
+    },
+    {
+      "id": "189b",
+      "prenom": "Rama",
+      "nom": "Diouf",
+      "mail": "admin@gmail.com",
+      "age": 20
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
